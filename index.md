@@ -138,10 +138,10 @@ Register is closely related to genre.
 > mode = the medium of communication (i.e., whehter it is spoken or written)\
 (Simpson, 11)
 
-Consider the following excerpt from "I Learned to Embrace My Chinese-American Identity Through My Voice":
+Consider the following excerpt from _"I Learned to Embrace My Chinese-American Identity Through My Voice"_:[^voice]
 
 <div class="sdparse" id="register-parse" tabs="yes">
-I/PERSONAL quickly fell into one of the stereotypes of Asians, especially Asian girls — one of quietness and reservedness/ACADEMIC. But it wasn’t because I’m shy/PERSONAL or like/PERSONAL being quiet, it was because I didn’t feel/PERSONAL like I could contribute/ACADEMIC something of value/ACADEMIC. Because all of the beloved female/ACADEMIC characters on the Disney/PERSONAL and Nickelodeon/PERSONAL TV/PERSONAL shows/PERSONAL I did watch and all of the mono-ethnic/ACADEMIC groups/ACADEMIC of popular/PERSONAL girls/PERSONAL at my/PERSONAL school/PERSONAL made me feel/PERSONAL that I didn’t have a place on their platform/ACADEMIC; that my identity/ACADEMIC was not worth the same visibility/ACADEMIC and respect/ACADEMIC . 
+I/PERSONAL quickly fell into one of the stereotypes of Asians, especially Asian girls — one of quietness and reservedness/ACADEMIC . But it wasn’t because I’m shy/PERSONAL or like/PERSONAL being quiet, it was because I didn’t feel/PERSONAL like I could contribute/ACADEMIC something of value/ACADEMIC . Because all of the beloved female/ACADEMIC characters on the Disney/PERSONAL and Nickelodeon/PERSONAL TV/PERSONAL shows/PERSONAL I did watch and all of the mono-ethnic/ACADEMIC groups/ACADEMIC of popular/PERSONAL girls/PERSONAL at my/PERSONAL school/PERSONAL made me feel/PERSONAL that I didn’t have a place on their platform/ACADEMIC ; that my identity/ACADEMIC was not worth the same visibility/ACADEMIC and respect/ACADEMIC . 
 </div>
 
 I've chosen, somewhat arbitrarily, to label these registers as _personal_ and _academic_. But we could just as easily categorize some of these words as _teen_ and _scholarly_, or _casual_ and _archaic_. Indeed, more registers would be more accurate. On the other hand, two registers feels appropriate here, given the nature of the article. The Narrative Argument essay, after all, demands a mix of at least two registers; one for narrative, and one for argument. 
@@ -186,6 +186,8 @@ __Personal__
 
 [^newkirk]: https://www.theatlantic.com/politics/archive/2017/08/growing-up-in-the-shadow-of-the-confederacy/537501/
 
+[^voice] https://www.teenvogue.com/story/i-embrace-my-chinese-american-identity-through-my-voice
+
 [^lakoff-4]:  Lakoff, G., & Johnson, M. (1981). _Metaphors we live by_. University of Chicago Press.
 
 [^metaphorlist]: https://www.lang.osaka-u.ac.jp/~sugimoto/MasterMetaphorList/metaphors/
@@ -196,15 +198,14 @@ __Personal__
 
 [^simpson-106-114]: (106-114, Simpson)
 
-[ambrose]:   How learning works. 
+[^ambrose]:   How learning works. 
 
 [^stockwell]:
     > Stockwell Blockquotes can be in a footnote.
 
-[^simpson]:    Simpson   no code block here (spaces are stripped away)
+[^simpson]:    Paul Simpson  _Cognitive Poetics_
 
-[^lakoff]:
-        this is now a code block (8 spaces indentation)
+[^lakoff]:  _Metaphors We Live By_
 
 ## Modality and Agency in a Teaching Text
 
