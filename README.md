@@ -1,4 +1,10 @@
-Annodoc: annotation documentation support system
+Comp Project
 ================================================
 
-Home page: <http://spyysalo.github.io/annodoc>
+Home page: <https://makeartandgames.github.io/interacdoc/>
+
+jekyll serve --watch
+
+Current work in index.md
+
+Forked from <http://spyysalo.github.io/annodoc>
