@@ -512,3 +512,12 @@ a.topnav  {
   float: right;
   line-height: 40px;
 }
+
+table, td, th {
+  border: 1px solid;
+}
+
+table.first {
+  width: 100%;
+  border-collapse: collapse;
+}
