@@ -15,32 +15,42 @@ This site won't discuss cognitive linguistics (I occasionally use the term _styl
   1. A learning tool for _students_ exploring rhetoric and critical reading;
   2. A metacognitive tool for _teachers_ to reflect on their experience of teaching and writing.
 
+## Justification
+
+Cognitive Linguistics is:
+
+ * Highly adaptable. Whereas traditional rhetoric evolved around a specific context and category of speech-act, cognitive linguists attempt to discuss language use "in general." The ideas of stylistics do not privilege persuasive or poetic modes. Linguistic insights can help students become "rhetorically flexible." Nor is it attached to a particular "standard english." Instead, cognitive linguistics is concerned with _how_ and _why_ something works, rather than prescribing what to do. 
+ * Student agency is primary. "Stylistics explores how readers interact with the language of texts in order to explain how we understand and are affected by, texts when we read them."[^scott]
+ * A Deep Structure. Ideas like [Conceptual Metaphor](), [Figure and Ground](), or [Register]() are rich, with their own sub-concepts. Each provides its own sub-concepts and has rich potential for exploration.
+
+
 ## Conceptual Metaphor
 
-### Metaphors for Writing 
+### Background: Metaphors for Writing
 
+We'll consider some examples of metaphor, and analyze them using the cognitive-linguistic framework popularized by George Lakoff and Mark Johnson in their book _Metaphors We Live By_.
 
-> English speakers routinely talk about writing as if it were speech, characterizing their inability t understand a text as difficulty understanding what that text is "saying," speaking of a writer's "voice" or "tone," describing readers as an "audience," and so forth. This habit conceals an essential difference: speech is natural in the sense that as modern homo sapiense, we've been speaking to one another for nearly two hundred thousand years. Our speech has been bound up in complex feedback loops with our physiology . . . and our cognition" which can lead us to "comparing them to the ease with which they [students] usually speak"[^dryer]
+> English speakers routinely talk about writing as if it were speech, characterizing their inability t understand a text as difficulty understanding what that text is "saying," speaking of a writer's "voice" or "tone," describing readers as an "audience," and so forth. This habit conceals an essential difference: speech is natural in the sense that as modern homo sapiense, we've been speaking to one another for nearly two hundred thousand years. Our speech has been bound up in complex feedback loops with our physiology . . . and our cognition" which can lead us to "comparing them to the ease with which they [students] usually speak."[^dryer]
 
-Dryer here is dealing with the metaphor WRITING IS SPEECH, part of the conceptual metaphor COMMUNICATION IS SPEECH[^metaphorlist].  
+Dryer is relying on the common metaphor WRITING IS SPEECH (an instance of the _conceptual metaphor_ COMMUNICATION IS SPEECH[^metaphorlist]). Metaphor can be described as a relationship between the metaphor's *source* (here, SPEECH) and its *target* (WRITING). Lakoff elaborates: "the common properties between the [source and target] constitute the **ground** of the metaphor" blended into a "new emergent understanding."[^lakoff] The most obvious common property here is that speech and writing are both ways of comunicating using language. Dryer then goes on to iterate "metaphor [is] a mapping of properties between the two spaces or domains" maps "properties between the two domains"[^simpson].
 
-"The common properties between the [source and target] constitute the **ground** of the metaphor" blended into a "new emergent understanding." The most obvious common property here is that speech and writing are both ways of comunicating using language. Dryer then goes on to iterate "metaphor [is] a mapping of properties between the two spaces or domains" maps "properties between the two domains"[^simpson-106-114].
+Conceptual metaphors are "underlying conceptual structures that in turn are shared by groups of people"[^simpson]. These conceptual tend to be more broad and sweeping. conceptual metaphors are frequently evoked [^lakoff]
 
-Conceptual metaphors are "underlying conceptual structures that in turn are shared by groups of people"[^simpson-106-114]. These conceptual tend to me more broad and sweeping. conceptual metaphors are frequently evoked [^lakoff-4]
-
-Lakoff uses as an example the conceptual metaphor "ARGUMENT IS WAR." This metaphor is reflected in our everyday language by a wide variety of expressions:
+Lakoff uses as an example the conceptual metaphor "ARGUMENT IS WAR." This metaphor is reflected in our everyday language through a wide variety of expressions:
 
 > ARGUMENT IS WAR\
 > Your claims are **indefensible**.\
 > He attacked every **weak point** in my argument. \
 > His criticisms were right on **target**.\
-> I *demolished* his argument.[^lakoff-4] 
+> I *demolished* his argument.[^lakoff] 
 
 As another example, the conceptual metaphor LIFE IS A JOURNEY can be expressed as "she strayed from the **path**" or with 'sub-metaphors' such as AGING IS A ROAD. Importantly, these individual expressions bring to the discourse the larger conceptual metaphor, activating an unconscious and expansive range of mapped properties. 
 "these metaphorical patterns are so strong and widespread that we can even understand our philosophical view of life itself as being founded not on an objective world but on a set of metaphorical representations"
 
 ### Classroom Applications
-        1. Be deliberate with their use of metaphor.
+Composition teachers might consider the following suggestions:
+
+        1. Be deliberate with your use of metaphor.
 
 For example, stating that writing is a PROCESS rather than a PRODUCT 
 will be more useful if the teacher's individual expressions 
@@ -48,9 +58,10 @@ support and evoke the first metaphor over the second.  Furthermore, try to make 
 
         2. Explore metaphor as a rhetorical tool. 
 
-   I have attempted to demonstrate this second point with the small analyses throughout. Metaphors are important rhetorical tools. Individual metaphors that are re-used throughout a text make for important patterns that can be targeted in annotations. Students can point to metaphors as evidence of a particular rhetorical technique; this might make for a good low-stakes assignment. The hope is that metaphors are a common-enough textual phenomenon that students understand; and so can offer them something concrete to think about as they read and write rhetorically.
+   I have attempted to demonstrate this second point with small analyses throughout. Metaphors are important rhetorical tools. Individual metaphors that are re-used throughout a text make for important patterns that can be targeted in annotations. Students can point to metaphors as evidence of a particular rhetorical technique; this might make for a good low-stakes assignment. The hope is that metaphors are a common-enough textual phenomenon that students understand, and so can offer them something concrete to think about as they read and write rhetorically.
 
-      Here are a few places in the 101 curriculum that you could make use of this tool:
+Here are a few places in the 101 curriculum where you could make use of this tool:
+
       - Week 1 - Metacognition / rhetorical reading, as an example of metacognition, 
       - Week 7 - Critical Reading and note-taking, as an example of patterns within a text
       - Throughout the semester, when discussing course readings (example below).
@@ -95,9 +106,9 @@ I spell out very clearly that reinforcement/UP always refers to increasing/UP a 
 ~~~
    
 
-> In other words, their prior knowledge  triggers an inappropriate association that ultimately intrudes on and distorts the incoming knowledge. (Ambrose, 11-12)
+> In other words, their prior knowledge  triggers an inappropriate association that ultimately intrudes on and distorts the incoming knowledge.[^ambrose]
 
-But it's not simply a case of "prior knowledge" competing with new information on an equal basis. UP IS GOOD is a knowledge of a different kind than what Dione has to offer the class. Nor is professor Dione likely to strip students of this conceptual metaphor or its hold over them. 
+But it's not simply a case of "prior knowledge" competing with new information on an equal basis. UP IS GOOD is knowledge of a different kind than what Dione has to offer the class. Nor is Professor Dione likely to strip students of this conceptual metaphor or its hold over them. 
 
 Note that *reinforcement* is already associated with SUPPORT/INCREASE/UP. 
 
@@ -105,7 +116,7 @@ Note that *reinforcement* is already associated with SUPPORT/INCREASE/UP.
 negative/DOWN reinforcement/UP does not mean punishment; it means removing/DOWN something aversive to increase/UP a desired behavior
 ~~~
 
-Further, the annotation above shows that even stripped of a students' GOOD/UP association, the teacher's explanation of negative reinforcement contains a series of UP/DOWN or INCREASE/DECREASE alternations. One can see how this would be confusing. 
+Further, the annotation above shows that even stripped of students' GOOD/UP association, the teacher's explanation of negative reinforcement contains a series of UP/DOWN or INCREASE/DECREASE alternations. One can see how this would be confusing. 
 
 {::comment}
  ownership(choices-2, their-3) modal(students-4, can-3) modal(can-3, feel) anaphora(them, students) 
@@ -114,7 +125,7 @@ Further, the annotation above shows that even stripped of a students' GOOD/UP as
 
 A 'grammar of rhetoric' empowers the student. It provides atomic abstractions;
 
-Providing the "smallet units" grants the student maximal autonomy, rather than rules-of-thumb based on larger grammatical structures.  Rather than evaluating a text's as "good" or "bad" writing or more or less "correct", stylistics catalogues the text as a series of overlapping and interacting structures which create an experience in the reader.
+Providing the "smallest units" grants the student maximal autonomy, rather than rules-of-thumb based on larger grammatical structures.  Rather than evaluating a text's as "good" or "bad" writing or more or less "correct", stylistics catalogs the text as a series of overlapping and interacting structures that create an experience in the reader.
 
 Cognitive linguists believe that language metaphors derive from somatic experiences constituted at an extremely young age.  Language is then implicitly embodied.  According to this view, Language is shaped by metaphor, rather than the other way around.  
 
@@ -123,20 +134,17 @@ A relatively small number of metaphors shape our thought.  This has two importan
     1. How we understand something is, at least in part, a function of metaphors we use;
     2. Meaning-making is deeply connected to an embodied experience. 
 
-This second point could help explain why some students see better results with  non-linguistic learning programs.  A traditional teaching model might treat e.g. diagrams or visual representations as "aids" to the primary and priveleged textual information. But if meaning is rooted in an emboided experience, then its visual, linguistic, etc. manifestations are equal attempts at expression. 
+This second point could help explain why some students see better results with  non-linguistic learning programs.  A traditional teaching model might treat e.g. diagrams or visual representations as "aids" to the primary and privileged textual information. But if meaning is rooted in an embodied experience, then its visual, linguistic, etc. manifestations are equal attempts at expression. 
 
 {::comment} As such, an embodied experience {:/comment}
 
 ## Register 
 
-"A register is a fixed pattern of vocabulary and grammar which regularly co-occurs with and is conventionally associated with a specific contexts." (Simpson, 10)
-
-Register is closely related to genre. 
+"A register is a fixed pattern of vocabulary and grammar which regularly co-occurs with and is conventionally associated with a specific context." [^simpson] Register is closely related to genre; it may be useful to think of register as the sentence-level expression of genre.
 
 > field = the setting and purpose of the interaction\
 > tenor = the relationship between the participants in interaction\
-> mode = the medium of communication (i.e., whehter it is spoken or written)\
-(Simpson, 11)
+> mode = the medium of communication (i.e., whether it is spoken or written)[^simpson]
 
 Consider the following excerpt from _"I Learned to Embrace My Chinese-American Identity Through My Voice"_:[^voice]
 
@@ -144,23 +152,23 @@ Consider the following excerpt from _"I Learned to Embrace My Chinese-American I
 I/PERSONAL quickly fell into one of the stereotypes of Asians, especially Asian girls — one of quietness and reservedness/ACADEMIC . But it wasn’t because I’m shy/PERSONAL or like/PERSONAL being quiet, it was because I didn’t feel/PERSONAL like I could contribute/ACADEMIC something of value/ACADEMIC . Because all of the beloved female/ACADEMIC characters on the Disney/PERSONAL and Nickelodeon/PERSONAL TV/PERSONAL shows/PERSONAL I did watch and all of the mono-ethnic/ACADEMIC groups/ACADEMIC of popular/PERSONAL girls/PERSONAL at my/PERSONAL school/PERSONAL made me feel/PERSONAL that I didn’t have a place on their platform/ACADEMIC ; that my identity/ACADEMIC was not worth the same visibility/ACADEMIC and respect/ACADEMIC . 
 </div>
 
-I've chosen, somewhat arbitrarily, to label these registers as _personal_ and _academic_. But we could just as easily categorize some of these words as _teen_ and _scholarly_, or _casual_ and _archaic_. Indeed, more registers would be more accurate. On the other hand, two registers feels appropriate here, given the nature of the article. The Narrative Argument essay, after all, demands a mix of at least two registers; one for narrative, and one for argument. 
+I've chosen, somewhat arbitrarily, to label these registers as _personal_ and _academic_. But we could just as easily categorize some of these words as _teen_ and _scholarly_, or _casual_ and _archaic_. Indeed, more registers would be more accurate. On the other hand, two registers seems appropriate here, given the nature of the article. The Narrative Argument essay, after all, demands a mix of at least two registers; one for narrative, and one for argument. 
 
 
 ### Lexical Sets: 
 
 **Personal**
 
-> I/me/shy/like/quiet/feel/TV/Disny/Nickelodeon/popular/girls/school/feel
+> I / me / shy / like / quiet / feel / TV / Disney / Nickelodeon / popular / girls / school / feel
 
 **Academic**
 
-> reservedness/contribute/value/mono-ethnic/groups/platform/identiy/visibility/respect
+> reservedness / contribute / value / mono-ethnic / groups / platform / identiy / visibility / respect
 
-Note how the the 'Academic' set contains complex latinate words of longer length.
+Note how the 'Academic' set contains complex latinate words of longer length.
 
 ### Grammatical Patterns
-Below are grammatical patterns used in the text. The words in the brackets indicate the 'slots' these structures leave open. For example, one might find, in a purely academic text, something like:
+These registers are also marked by particular patterns of syntax. The words in the brackets indicate the 'slots' these structures leave open. For example, one might find, in a purely academic text, something like:
 
 > It was one of happiness and solace.
 
@@ -186,30 +194,25 @@ __Personal__
 
 [^newkirk]: https://www.theatlantic.com/politics/archive/2017/08/growing-up-in-the-shadow-of-the-confederacy/537501/
 
-[^voice] https://www.teenvogue.com/story/i-embrace-my-chinese-american-identity-through-my-voice
+[^voice]:   https://www.teenvogue.com/story/i-embrace-my-chinese-american-identity-through-my-voice
 
-[^lakoff-4]:  Lakoff, G., & Johnson, M. (1981). _Metaphors we live by_. University of Chicago Press.
+[^lakoff]:  Lakoff, G., & Johnson, M. (1981). _Metaphors we live by_. University of Chicago Press.
 
 [^metaphorlist]: https://www.lang.osaka-u.ac.jp/~sugimoto/MasterMetaphorList/metaphors/
 
-[^dryer]:
-     > "Writing is Not Natural", Dylan B. Dryer, _Naming What We Know_, pgs 27-29
+[^dryer]: "Writing is Not Natural", Dylan B. Dryer, _Naming What We Know_, pgs 27-29
 
+[^scott]: Scott, Jeremy (2012). *Creative Writing: a Stylistics Approach.*
 
-[^simpson-106-114]: (106-114, Simpson)
-
-[^ambrose]:   How learning works. 
+[^ambrose]:  Ambrose et al., _How Learning Works: Seven Research-Based Principles for Smart Teaching_
 
 [^stockwell]:
     > Stockwell Blockquotes can be in a footnote.
 
-[^simpson]:    Paul Simpson  _Cognitive Poetics_
+[^simpson]:    Paul Simpson,  _Cognitive Poetics_
 
-[^lakoff]:  _Metaphors We Live By_
 
 ## Modality and Agency in a Teaching Text
-
-__Note: This section is incomplete.__
 
 ### Agency via Cogntive Grammar
 
@@ -239,15 +242,6 @@ possible(choices,-1, students-1)
 possible(can-1, choices,-1)
 ~~~
 
-
-
-## Justification
-
-Cognitive Linguistics is:
-
- * Highlly adaptable. Whereas traditional rhetoric evolved around a specific context and category of speech-act, cognitive linguists attempt to discuss language use "in general." The ideas of stylistics do not privilge persuasive or poetic modes. Linguistic insights can help students become "rhetorically flexible." Nor is it attached to a particular "standard english." Instead, cognitive linguistics is concerned with _how_ and _why_ something works, rather than prescribing what to do. 
- * Student agency is primary. "Stylistics explores how readers interact with the lanuguage of texts in order to explain how we undertand and are affected by, texts wehn we read them[^scott-3].
- * A Deep Structure. Ideas like [Conceptual Metaphor](), [Figure and Ground](), or [Register]() are rich, with their own sub-concepts. and each each provide their own sub-concepts and have rich potential for exploration
 
 
 ## Further Questions
@@ -299,7 +293,6 @@ Note: local/config.js for collors and so on.
 <button onclick="javascript:console.log(Util);"> ignrs </button>
 <button onclick="javascript:runButton()"> Pressy </button>
 
-{:/comment}
 
 ## Glossary
 {% for c in site.collections %}
@@ -311,9 +304,7 @@ Note: local/config.js for collors and so on.
 {% endfor %}
 
 
+{:/comment}
 
-## Bibliography 
 
-TODO 
-
-### Footnotes
+### Bibliography
